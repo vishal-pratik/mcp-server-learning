@@ -20,7 +20,7 @@ Add this configuration to your Claude Desktop config file:
 {
   "mcpServers": {
     "add_tool": {
-      "command": "/Users/gq06/.local/bin/uvx",
+      "command": "uvx",
       "args": [
         "--native-tls",
         "--from",
